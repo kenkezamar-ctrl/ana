@@ -18,6 +18,14 @@
 | الماء وأصل المادة والتوازن الكوني | https://amarkenzari.wordpress.com/water-origin-matter-cosmic-balance/ | [water-origin-matter-cosmic-balance.wp-blocks.html](pages/water-origin-matter-cosmic-balance.wp-blocks.html) |
 | النفس والقرين والقلب والفؤاد والواسطة بينهم | https://amarkenzari.wordpress.com/nafs-qarin-heart-fuad/ | [nafs-qarin-heart-fuad.wp-blocks.html](pages/nafs-qarin-heart-fuad.wp-blocks.html) |
 
+## المنشورات وأجزاء القالب المؤرشفة
+
+| العنصر | الرابط أو المعرّف المنشور | ملف الأرشيف |
+|---|---|---|
+| سياسة التوثيق والأرشفة والنزاهة البحثية | https://amarkenzari.wordpress.com/2026/11/15/ocumentation-archiving-policy/ | [documentation-archiving-policy.wp-blocks.html](posts/documentation-archiving-policy.wp-blocks.html) |
+| الترويسة | pub/assembler//header | [header.wp-blocks.html](template-parts/header.wp-blocks.html) |
+| التذييل | pub/assembler//footer | [footer.wp-blocks.html](template-parts/footer.wp-blocks.html) |
+
 ## طريقة التحديث
 
 1. يُحرر المحتوى في WordPress أولًا.
@@ -27,7 +35,7 @@
 
 ## حدود الأرشيف
 
-يحفظ هذا الأرشيف محتوى الصفحات السبع بصيغة كتل WordPress/Gutenberg. ولا يشمل تلقائيًا مكتبة الوسائط الأصلية، إعدادات القالب، القوائم، عناصر التخصيص، التعليقات، المستخدمين، أو قاعدة بيانات WordPress كاملة. ولا ينبغي نشر ملفات HTML هذه مباشرة إلى مجلد القالب أو جذر الموقع؛ فهي ملفات أرشيف للمحتوى وليست ملفات قالب قابلة للنشر.
+يحفظ هذا الأرشيف محتوى الصفحات السبع وسياسة التوثيق وجزأي الترويسة والتذييل بصيغة كتل WordPress/Gutenberg. ولا يشمل تلقائيًا مكتبة الوسائط الأصلية، إعدادات القالب، القوائم، عناصر التخصيص، التعليقات، المستخدمين، أو قاعدة بيانات WordPress كاملة. ولا ينبغي نشر ملفات HTML هذه مباشرة إلى مجلد القالب أو جذر الموقع؛ فهي ملفات أرشيف للمحتوى وليست ملفات قالب قابلة للنشر.
 
 
 ## الترجمات الأكاديمية
