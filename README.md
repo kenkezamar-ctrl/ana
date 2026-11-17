@@ -20,6 +20,11 @@
 - [عن الباحث](wordpress/pages/about.wp-blocks.html)
 - [المستجدات البحثية](wordpress/pages/updates.wp-blocks.html)
 
+## المنشورات والأرشفة
+
+- [Une recherche en mouvement](wordpress/posts/une-recherche-en-mouvement.wp-blocks.html)
+- [سياسة التوثيق والأرشفة والنزاهة البحثية](wordpress/posts/documentation-archiving-policy.wp-blocks.html)
+
 ## السياسات وأجزاء القالب
 
 - [سياسة التوثيق والأرشفة والنزاهة البحثية](wordpress/posts/documentation-archiving-policy.wp-blocks.html)
