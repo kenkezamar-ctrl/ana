@@ -22,6 +22,7 @@
 
 | العنصر | الرابط أو المعرّف المنشور | ملف الأرشيف |
 |---|---|---|
+| التقديم البحثي بالفرنسية Une recherche en mouvement | https://amarkenzari.wordpress.com/2026/11/11/une-recherche-en-mouvement/ | [une-recherche-en-mouvement.wp-blocks.html](posts/une-recherche-en-mouvement.wp-blocks.html) |
 | سياسة التوثيق والأرشفة والنزاهة البحثية | https://amarkenzari.wordpress.com/2026/11/15/ocumentation-archiving-policy/ | [documentation-archiving-policy.wp-blocks.html](posts/documentation-archiving-policy.wp-blocks.html) |
 | الترويسة | pub/assembler//header | [header.wp-blocks.html](template-parts/header.wp-blocks.html) |
 | التذييل | pub/assembler//footer | [footer.wp-blocks.html](template-parts/footer.wp-blocks.html) |
