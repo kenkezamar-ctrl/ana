@@ -7,6 +7,10 @@
 - منصة النشر الأساسية: WordPress.com
 - الفرع الأساسي: `main`
 
+## فهرس منشورات Figshare ومعرّفات DOI
+
+- [قائمة المنشورات الخمسة ومعرّفات DOI](research/figshare-publications.md)
+
 ## الأبحاث
 
 1. [الزمن قبل المادة والمكان؟](wordpress/pages/time-before-matter-space.wp-blocks.html)
