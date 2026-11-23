@@ -27,6 +27,10 @@
 | الترويسة | pub/assembler//header | [header.wp-blocks.html](template-parts/header.wp-blocks.html) |
 | التذييل | pub/assembler//footer | [footer.wp-blocks.html](template-parts/footer.wp-blocks.html) |
 
+## فهرس منشورات Figshare
+
+تُجمع معرّفات DOI الخمسة وروابط سجلاتها الرسمية في [فهرس منشورات Figshare](../research/figshare-publications.md). ويظل Figshare مرجع بيانات النشر، بينما يؤدي GitHub وظيفة الفهرسة والأرشفة.
+
 ## طريقة التحديث
 
 1. يُحرر المحتوى في WordPress أولًا.
