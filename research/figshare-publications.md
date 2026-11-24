@@ -10,7 +10,9 @@
 ## المنشورات
 
 1. **القوة الخامسة والدخان الكوني والماء: حافة الكون والغلاف الكوني**  
-   DOI: [10.6084/m9.figshare.35085127](https://doi.org/10.6084/m9.figshare.35085127)
+   DOI: [10.6084/m9.figshare.35085127](https://doi.org/10.6084/m9.figshare.35085127)  
+   صفحة WordPress: [الصفحة التعريفية](https://amarkenzari.wordpress.com/bibliotheque-de-recherche/fifth-force-cosmic-smoke-water/)  
+   ملف الفهرسة في GitHub: [fifth-force-cosmic-smoke-water.md](fifth-force-cosmic-smoke-water.md)
 
 2. **منشور Figshare – السجل رقم 35078962**  
    DOI: [10.6084/m9.figshare.35078962](https://doi.org/10.6084/m9.figshare.35078962)
